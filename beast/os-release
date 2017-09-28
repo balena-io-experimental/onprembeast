@@ -1,0 +1,12 @@
+ID="resin-os"
+NAME="Grizzly"
+VERSION="3000"
+VERSION_ID="3000"
+PRETTY_NAME="Grizzly 3000"
+RESIN_BOARD_REV="42b246e"
+META_RESIN_REV="b91b3b9"
+SLUG="raspberrypi3"
+MACHINE="raspberrypi3"
+VARIANT="Production"
+VARIANT_ID="prod"
+
